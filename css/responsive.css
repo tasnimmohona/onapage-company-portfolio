@@ -1,0 +1,85 @@
+/*============================================
+                navbar
+===============================================*/
+
+@media only screen and (min-width:200px) and (max-width: 780px) {
+	.navbar-brand {
+		font-size: 25px;
+	}
+	/*============================================
+                background
+===============================================*/
+	#background {
+		padding-top: 245px;
+	}
+	.bg-text h1 {
+		color: #ffffff;
+		font-size: 29px;
+		margin-bottom: 30px;
+	}
+	.bg-text button {
+		font-size: 15px;
+	}
+	.common-header {
+		padding-bottom: 30px;
+	}
+	.common-header h3 {
+		font-size: 18px;
+	}
+	.common-header p {
+		font-size: 13px;
+	}
+	/*============================================
+                about us
+===============================================*/
+	.about-right h5 {
+		font-size: 12px;
+	}
+	.about-right p {
+		font-size: 12px;
+	}
+	/*============================================
+                portfolio
+===============================================*/
+	.leftside-text {
+		font-size: 12px;
+	}
+	.rightside-text {
+		font-size: 11px;
+	}
+	.portfolio-content {
+		margin: 20px 0;
+	}
+	/*============================================
+                sevice
+===============================================*/
+	.service-box {
+		padding: 30px 20px 5px 20px;
+		margin: 20px 0;
+		height: 320px;
+	}
+	.service-text p:first-child {
+		font-size: 18px;
+	}
+	.service-text p:last-child {
+		font-size: 12px;
+	}
+	/*============================================
+                Contact
+===============================================*/
+	.contact-left p {
+		font-size: 12px;
+	}
+	.contact-left span {
+		font-size: 12px;
+	}
+	form {
+		font-size: 12px;
+	}
+	/*============================================
+                copyright
+===============================================*/
+	#copyright {
+		font-size: 12px;
+	}
+}
